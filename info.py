@@ -67,7 +67,7 @@ HOWTOVERIFY = environ.get('HOWTOVERIFY')
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'zipshort.net')
-SHORTLINK_API = environ.get('SHORTLINK_API', '6ab0c6fc67b87a6751f299b0f7661ab44ff28a71')
+SHORTLINK_API = environ.get('SHORTLINK_API', '9ea91a2c95f97bf82e4362fd37e45f3c86120644')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
