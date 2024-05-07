@@ -254,9 +254,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 🧿 {title}</b>
 
-<b>⭐ {rating} | ⏰ {runtime} Minutes
+<b>⭐ {rating}/10 | ⏰ {runtime} Minutes
 📆 {release_date}
-🕵️ {director}
+🕵️ {director} | 📝 {writer}
 
 ●  {languages}
 ●  {genres}
@@ -275,7 +275,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
-Bʏ @TheMovieProviderBot</b>"""
+Bʏ @Hell_King_69_Bot </b>"""
 
     LOGO = """
 
