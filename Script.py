@@ -255,18 +255,16 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🧿 {title}</b>
 
 <b>⭐ {rating}/10 | ⏰ {runtime} Minutes
-
-📆 {release_date} | 📦 {box_office}
+📆 {release_date}
 
 🕵️ {director} | 📝 {writer}
 
 ●  {languages}
-
 ●  {genres}
 
 📖 {plot}
 
-💗 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : {The Hell King}</b>
+💗 ᴘᴏᴡᴇʀᴇᴅ ʙʏ : {message.chat.title}</b>
 """
     
 
