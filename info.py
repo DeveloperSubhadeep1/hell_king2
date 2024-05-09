@@ -31,7 +31,7 @@ PICS = (environ.get('PICS', 'https://telegra.ph/file/e6b5c785f612feb5f5634.jpg h
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://i.imgur.com/0Xrpmn2.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/86b7b7e2aa7e38f328902.jpg")
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/5111e42873de3934432f5.jpg')) 
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/13e54f34981f1743a2ca1.jpg')) 
 CODE = (environ.get('CODE', 'https://telegra.ph/file/6d9f98123c53dc9202532.jpg')) #this is QR code
 
 #stream link shortner
