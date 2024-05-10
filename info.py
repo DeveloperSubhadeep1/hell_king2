@@ -32,7 +32,7 @@ NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.j
 MELCOW_VID = environ.get("MELCOW_VID", "https://i.imgur.com/0Xrpmn2.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/86b7b7e2aa7e38f328902.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/5d009195a60e9b0030e22.jpg')) 
-CODE = (environ.get('CODE', 'https://telegra.ph/file/fb45e1ced8383d0028502.jpg')) #this is QR code
+CODE = (environ.get('CODE', 'https://telegra.ph/QR-Code-for-payment-05-10')) #this is QR code
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', 'ziplinker.net'))
