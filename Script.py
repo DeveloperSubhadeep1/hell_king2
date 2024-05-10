@@ -305,7 +305,7 @@ Bʏ @Hell_King_69_Bot </b>"""
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>example@example</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/Pa'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/fb45e1ced8383d0028502.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -322,7 +322,7 @@ Bʏ @Hell_King_69_Bot </b>"""
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>example@example</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/Pa'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/fb45e1ced8383d0028502.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
@@ -428,7 +428,7 @@ Bʏ @Hell_King_69_Bot </b>"""
     
 ⚜️ ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/Pa'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/fb45e1ced8383d0028502.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -443,7 +443,7 @@ Bʏ @Hell_King_69_Bot </b>"""
 ● <code>400₹</code> ➛ <u>ᴅɪᴀᴍᴏɴᴅ ᴘʟᴀɴ</u> » <code>365 ᴅᴀʏꜱ</code>
 
 💵 ᴜᴘɪ ɪᴅ - <code>example@example</code>
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/Pa'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://telegra.ph/file/fb45e1ced8383d0028502.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ⚜️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan
 
